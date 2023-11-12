@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "sX1En+XKF6OJndT6bttWyEd0DP5hlsZ5UgSbA88L84fnPUNRMy+UH6Pnsr4Zp07fA/GM7nTPCCQK/WjfVelj8w==",
+  "success": true,
+  "projectFilePath": "/Users/dzmitryhastsilovich/RiderProjects/Telegram_Your_Half/Telegram_Your_Half/Telegram_Your_Half.csproj",
+  "expectedPackageFiles": [
+    "/Users/dzmitryhastsilovich/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/dzmitryhastsilovich/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/dzmitryhastsilovich/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/Users/dzmitryhastsilovich/.nuget/packages/system.text.json/7.0.3/system.text.json.7.0.3.nupkg.sha512",
+    "/Users/dzmitryhastsilovich/.nuget/packages/telegram.bot/20.0.0-alpha.1/telegram.bot.20.0.0-alpha.1.nupkg.sha512",
+    "/Users/dzmitryhastsilovich/.nuget/packages/telegram.botapi/6.9.2/telegram.botapi.6.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}
