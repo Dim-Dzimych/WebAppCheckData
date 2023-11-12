@@ -12,7 +12,7 @@
 }
 
 .link{
-    color: blue;
+    color: green;
 }
 
 .button{
@@ -22,9 +22,9 @@
     font-size: 18px;
 }
 
-/*.button:not(:last-child){*/
-/*    margin-bottom: 20px*/
-/*}*/
+.button:not(:last-child){
+    margin-bottom: 20px
+}
 
 #usercard{
     text-align: center;
